@@ -15,8 +15,12 @@
 - git branch c- name
 - adding a change to commit to master
 - commit to second branch git checkout -b second-branch
+<<<<<<< HEAD
 =======
 - log and diff stuff 
 
 >>>>>>> forth-branch-log-diff
+=======
+- adding some stuff about stash
+>>>>>>> third-branch
 ## doing another commit
