@@ -8,5 +8,6 @@
 - git config
 - bit branch
 - git branch c- name
+- adding a change to commit to master
 - commit to second branch git checkout -b second-branch
 ## doing another commit
